@@ -86,7 +86,11 @@ const Navbar = () => {
                   <FaUserCircle /> خروج
                 </button>
               ) : (
-                <Link className="btn btn-sm btn-outline-secondary" to="/login">
+                <Link
+                  className="btn btn-sm btn-outline-secondary"
+                  to="/login"
+                  onClick={() => setShow(false)}
+                >
                   <FaUserCircle /> ورود / ثبت نام
                 </Link>
               )}
