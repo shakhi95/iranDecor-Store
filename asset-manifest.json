@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/iranDecor-Store/static/css/main.62efefac.chunk.css",
+    "main.js": "/iranDecor-Store/static/js/main.544bdaa7.chunk.js",
+    "main.js.map": "/iranDecor-Store/static/js/main.544bdaa7.chunk.js.map",
+    "runtime-main.js": "/iranDecor-Store/static/js/runtime-main.b3923d12.js",
+    "runtime-main.js.map": "/iranDecor-Store/static/js/runtime-main.b3923d12.js.map",
+    "static/js/2.7120bc4b.chunk.js": "/iranDecor-Store/static/js/2.7120bc4b.chunk.js",
+    "static/js/2.7120bc4b.chunk.js.map": "/iranDecor-Store/static/js/2.7120bc4b.chunk.js.map",
+    "index.html": "/iranDecor-Store/index.html",
+    "static/css/main.62efefac.chunk.css.map": "/iranDecor-Store/static/css/main.62efefac.chunk.css.map",
+    "static/js/2.7120bc4b.chunk.js.LICENSE.txt": "/iranDecor-Store/static/js/2.7120bc4b.chunk.js.LICENSE.txt",
+    "static/media/404.c679a24f.png": "/iranDecor-Store/static/media/404.c679a24f.png",
+    "static/media/style.css": "/iranDecor-Store/static/media/Yekan.f717454d.ttf",
+    "static/media/hero-bcg-2.78991864.jpeg": "/iranDecor-Store/static/media/hero-bcg-2.78991864.jpeg",
+    "static/media/hero-bcg.469ec7cc.jpg": "/iranDecor-Store/static/media/hero-bcg.469ec7cc.jpg",
+    "static/media/online_payment.c4bb1a47.png": "/iranDecor-Store/static/media/online_payment.c4bb1a47.png",
+    "static/media/shopping_cart.bcebc6bb.png": "/iranDecor-Store/static/media/shopping_cart.bcebc6bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3923d12.js",
+    "static/js/2.7120bc4b.chunk.js",
+    "static/css/main.62efefac.chunk.css",
+    "static/js/main.544bdaa7.chunk.js"
+  ]
+}
