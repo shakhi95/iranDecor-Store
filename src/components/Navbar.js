@@ -81,7 +81,10 @@ const Navbar = () => {
               {isSignedIn ? (
                 <button
                   className="btn btn-sm btn-outline-secondary"
-                  onClick={signOut}
+                  onClick={() => {
+                    signOut();
+                    setShow(false);
+                  }}
                 >
                   <FaUserCircle /> خروج
                 </button>
