@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iranDecor-Store/static/css/main.62efefac.chunk.css",
-    "main.js": "/iranDecor-Store/static/js/main.9ce29f12.chunk.js",
-    "main.js.map": "/iranDecor-Store/static/js/main.9ce29f12.chunk.js.map",
+    "main.js": "/iranDecor-Store/static/js/main.66540854.chunk.js",
+    "main.js.map": "/iranDecor-Store/static/js/main.66540854.chunk.js.map",
     "runtime-main.js": "/iranDecor-Store/static/js/runtime-main.b3923d12.js",
     "runtime-main.js.map": "/iranDecor-Store/static/js/runtime-main.b3923d12.js.map",
     "static/js/2.aef26e2a.chunk.js": "/iranDecor-Store/static/js/2.aef26e2a.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b3923d12.js",
     "static/js/2.aef26e2a.chunk.js",
     "static/css/main.62efefac.chunk.css",
-    "static/js/main.9ce29f12.chunk.js"
+    "static/js/main.66540854.chunk.js"
   ]
 }
