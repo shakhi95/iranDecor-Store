@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 import "./styling/bootstrap.rtl.min.css";
 import "./styling/style.css";
@@ -20,7 +20,7 @@ import { Navbar, Footer, Breadcrumb } from "./components";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter basename="/">
       <Navbar />
       <Breadcrumb />
       <Switch>
@@ -34,7 +34,7 @@ const App = () => {
         <Route path="*" component={Error} />
       </Switch>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
